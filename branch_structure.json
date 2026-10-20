@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1776-cover-upgradehandler-with-unit-tests",
+    "fix/issue-1777-cover-streamapiqueries-with-unit-tests",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1776-cover-upgradehandler-with-unit-tests": "main",
+    "fix/issue-1777-cover-streamapiqueries-with-unit-tests": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1776-cover-upgradehandler-with-unit-tests",
+    "fix/issue-1777-cover-streamapiqueries-with-unit-tests",
+    "origin"
+  ]
+}
